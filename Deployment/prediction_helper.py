@@ -1,7 +1,6 @@
 # libraries
 import numpy as np
 from keras.models import load_model
-#from keras.applications.mobilenet_v2 import preprocess_input
 
 def makePredictionEmotion(image):
     classes = ['Angry','Disgust','Fear','Happy','Sad','Surprise','Neutral']
