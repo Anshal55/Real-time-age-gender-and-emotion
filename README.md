@@ -31,4 +31,20 @@ cd Real-time-age-gender-and-emotion/
 ```
 python predictionImage.py
 ```
-4.
+4. For prediction on video run
+```
+python predictionVideo.py
+```
+
+### To see the deployment follow the given steps.
+1. Move to deployment directory.
+```
+cd Deployment/
+```
+2. Run the appImage.py for Image and go to the produced link.
+```
+python appImage.py
+```
+> Link woul look like Running on http://127.0.0.1:20000/ (Press CTRL+C to quit)
+
+
