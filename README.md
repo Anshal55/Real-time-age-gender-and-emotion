@@ -45,6 +45,6 @@ cd Deployment/
 ```
 python appImage.py
 ```
-> Link woul look like Running on http://127.0.0.1:20000/ (Press CTRL+C to quit)
+> Link would look like Running on http://127.0.0.1:20000/ (Press CTRL+C to quit)
 
 
