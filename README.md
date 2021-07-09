@@ -45,6 +45,14 @@ cd Deployment/
 ```
 python appImage.py
 ```
-> Link would look like Running on http://127.0.0.1:20000/ (Press CTRL+C to quit)
+3. Run the appVideo.py for live webcam prediction and go to the link.
+```
+python appVideo.py
+```
+
+> Links would look like this 
+```
+Running on http://127.0.0.1:20000/ (Press CTRL+C to quit)
+```
 
 
