@@ -55,4 +55,6 @@ python appVideo.py
 Running on http://127.0.0.1:20000/ (Press CTRL+C to quit)
 ```
 
+### Open to suggestions and improvements.
+![image](https://user-images.githubusercontent.com/54211313/125088117-be9f1d80-e0ea-11eb-88ab-5616de655d76.png)
 
