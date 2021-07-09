@@ -12,5 +12,5 @@
 ![DEmo_Flask](https://github.com/Anshal55/Real-time-age-gender-and-emotion/blob/main/Demo/img_pred_flask.gif)
 
 - **Prediction on a Video.**
-- 
+
 ![Video](https://github.com/Anshal55/Real-time-age-gender-and-emotion/blob/main/Demo/img_pred.gif)
