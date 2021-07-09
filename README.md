@@ -17,8 +17,12 @@
 
 
 ## **To get this working on your machine.**
-
-1. Clone th repository by usning the following commmand.
+### Instal the given dependencies.
+### Open the terminal and follow the given steps.
+1. Clone the repository by usning the following commmand.
 ```
 $ git clone https://github.com/Anshal55/Real-time-age-gender-and-emotion.git
 ```
+2. Move into the main directory.
+```
+$ cd 
