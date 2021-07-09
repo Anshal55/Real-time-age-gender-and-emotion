@@ -21,8 +21,14 @@
 ### Open the terminal and follow the given steps.
 1. Clone the repository by usning the following commmand.
 ```
-$ git clone https://github.com/Anshal55/Real-time-age-gender-and-emotion.git
+git clone https://github.com/Anshal55/Real-time-age-gender-and-emotion.git
 ```
 2. Move into the main directory.
 ```
-$ cd 
+cd Real-time-age-gender-and-emotion/
+```
+3. For Image prediction run the following script.
+```
+python predictionImage.py
+```
+4.
