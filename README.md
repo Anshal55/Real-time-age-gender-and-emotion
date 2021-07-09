@@ -56,5 +56,12 @@ Running on http://127.0.0.1:20000/ (Press CTRL+C to quit)
 ```
 
 ### Open to suggestions and improvements.
-![image](https://user-images.githubusercontent.com/54211313/125088117-be9f1d80-e0ea-11eb-88ab-5616de655d76.png)
+
+<p align="center">
+<br>
+<a href="https://www.facebook.com/anshal.singh.54/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/anshal-singh-73bb0713b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:Anshal.54321@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.kaggle.com/anshalsingh"><img src="https://img.shields.io/badge/kaggle-icon.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
+</p>
 
