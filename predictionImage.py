@@ -46,6 +46,3 @@ if cv.waitKey(0) & 0xFF == ord("q"):
     cv.destroyAllWindows()
 
 print(f"Predictions made are :  {predictions}")
-
-
-
