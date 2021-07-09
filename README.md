@@ -8,4 +8,4 @@
 ![image](https://user-images.githubusercontent.com/54211313/125079482-4da73800-e0e1-11eb-867c-59e5a923fb5f.png)
 
 - The demo of deployed model for image.
-![image](https://user-images.githubusercontent.com/54211313/125079692-89da9880-e0e1-11eb-92a7-1a564710f435.png)
+![DEmo_Flask](https://github.com/Anshal55/Real-time-age-gender-and-emotion/blob/main/Demo/img_pred_flask.gif)
