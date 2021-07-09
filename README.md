@@ -4,5 +4,7 @@
 - The aim of this project to predict the age,gender and emotion of a person by their picture or video and deploy it using Flask.
 
 ## Working Demo
-- 
+- The working demo of prediction on an Image.
+![image](https://user-images.githubusercontent.com/54211313/125079482-4da73800-e0e1-11eb-867c-59e5a923fb5f.png)
 
+- 
